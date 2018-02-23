@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Data_info_sim</string>
+    <string name="notification_example">Notification Example</string>
+    <string name="notification">Notification</string>
+    <string name="notify_vt">NOTIFY VT</string>
+    <string name="veltech">VELTECH</string>
+    <string name="your_notification_is_here">your notification is here</string>
+    <string name="idea">IDEA</string>
+    <string name="airtel">AIRTEL</string>
+    <string name="bsnl">BSNL</string>
+    <string name="jio_4g">JIO 4G</string>
+    <string name="vodafone">vodafone</string>
+    <string name="reliance">RELIANCE</string>
+    <string name="tata">TATA</string>
+    <string name="aircel">AIRCEL</string>
+    <string name="mtnl">MTNL</string>
+    <string name="mts">MTS</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+</resources>
